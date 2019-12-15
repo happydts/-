@@ -9,3 +9,6 @@ Creating a new branch is quick and simple.
 
 
 bug
+
+
+commit dev to github
